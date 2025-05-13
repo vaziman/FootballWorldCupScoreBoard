@@ -3,11 +3,11 @@
 Java library that simulates a live scoreboard for the Football World Cup. It supports creating matches, updating scores, removing matches, and retrieving a sorted summary of ongoing games.
 
 **Contents**
-- Tech Stack(#tech-stack)
-- Features(#features)
-- Running the Project(#running-the-project)
-- Usage Example(#usage-example) 
-- Notes(#notes)
+- [Tech Stack](#tech-stack)
+- [Features](#features)
+- [Running the Project](#running-the-project)
+- [Usage Example](#usage-example) 
+- [Notes](#notes)
 
 
 **Tech Stack**
